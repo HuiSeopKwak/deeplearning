@@ -1,4 +1,4 @@
-## deeplearning
+## 딥러닝 기반 피부 질환 진단 및 치료 비용 예측 AI 개발
 > 프로젝트 목표
   - AIHUB Dataset과 Unet, Yolo를 활용하여 피부 질환 위치 모델 학습
   - Dataset Searching을 통해 예상 치료 비용 산출
