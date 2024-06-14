@@ -24,8 +24,8 @@
 
 > 발표자료
 
-[ppt](/)
+[ppt]()
 
 > 연락처
 
-[github@gmail.com](/)
+[github@gmail.com]()
